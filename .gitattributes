@@ -1,0 +1,15 @@
+# Use LF for text files by default
+* text=auto eol=lf
+
+# Shell scripts
+*.sh text eol=lf
+
+# Docker
+Dockerfile text eol=lf
+
+# Kubernetes manifests
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Markdown
+*.md text eol=lf
